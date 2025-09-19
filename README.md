@@ -1,8 +1,36 @@
 
-💱 Conversor de Divisas
+# 🌐 Proyecto Conversor
 
-Esta función conecta con la API de ExchangeRatesAPI para obtener el valor actualizado de diferentes monedas. El usuario elige la moneda de origen y destino, ingresa un monto y la aplicación hace el cálculo automáticamente mostrando el valor convertido en tiempo real.
+Este proyecto incluye dos funciones principales: un **conversor de divisas** y un **conversor de peso**.  
+Ambas están diseñadas para ser rápidas, fáciles de usar y con resultados inmediatos. 🚀
 
-⚖️ Conversor de Peso (Kg ↔ Lb)
+---
 
-Esta función convierte de forma rápida entre kilogramos y libras. El usuario ingresa un número en la unidad que prefiera y el sistema realiza el cálculo matemático para mostrar el equivalente en la otra unidad al instante.
+## 💱 Conversor de Divisas  
+Convierte entre diferentes monedas usando tasas de cambio en tiempo real.  
+- 🔹 Selecciona la moneda de origen y destino.  
+- 🔹 Ingresa el monto que quieres convertir.  
+- 🔹 Obtén el resultado automáticamente con datos actualizados.  
+
+---
+
+## ⚖️ Conversor de Peso (Kg ↔ Lb)  
+Convierte de manera instantánea entre kilogramos y libras.  
+- 🔹 Ingresa el valor en **Kg** o **Lb**.  
+- 🔹 El sistema hace la conversión matemática.  
+- 🔹 Obtén el equivalente de forma rápida y precisa.  
+
+---
+
+## 📌 Tecnologías utilizadas  
+- Python 🐍  
+- Django ⚡  
+- HTML + CSS 🎨  
+
+---
+
+## 🚀 Cómo ejecutar el proyecto  
+1. Clona este repositorio:  
+   ```bash
+   git clone https://github.com/tuusuario/tu-repo.git
+   cd tu-repo
