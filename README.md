@@ -1,3 +1,4 @@
+CONVERSOR
 💱 Conversor de Divisas
 
 Esta función conecta con la API de ExchangeRatesAPI para obtener el valor actualizado de diferentes monedas. El usuario elige la moneda de origen y destino, ingresa un monto y la aplicación hace el cálculo automáticamente mostrando el valor convertido en tiempo real.
