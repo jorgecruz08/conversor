@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Conversor Web con API</title>
+    {% load static %}
+    <link rel="stylesheet" type="text/css" href="{% static 'web/css/style.css' %}"/>
+</head>
+<body>
+ <h1>Conversores</h1>
+
+  <!-- Conversor de Divisas -->
+  <section class="card">
+    <h2>💱 Conversor de Divisas</h2>
+    <label for="usd">Dólares (USD):</label>
+    <input type="number" id="usd" placeholder="Ingresa USD">
+    <button onclick="convertirDivisa()">Convertir</button>
+    <p id="resultado-divisa"></p>
+  </section>
+
+  <!-- Conversor de Unidades -->
+  <section class="card">
+    <h2>⚖️ Conversor de Peso</h2>
+    <label for="kg">Kilogramos (Kg):</label>
+    <input type="number" id="kg" placeholder="Ingresa Kg">
+    <button onclick="convertirKgLb()">Convertir a Lb</button>
+
+    <br><br>
+
+    <label for="lb">Libras (Lb):</label>
+    <input type="number" id="lb" placeholder="Ingresa Lb">
+    <button onclick="convertirLbKg()">Convertir a Kg</button>
+
+    <p id="resultado-unidades"></p>
+  </section>
+
+    <script src="{% static 'web/js/script.js' %}"></script>
+</body>
+</html>
