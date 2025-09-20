@@ -29,8 +29,19 @@ Convierte de manera instantánea entre kilogramos y libras.
 
 ---
 
-## 🚀 Cómo ejecutar el proyecto  
-1. Clona este repositorio:  
-   ```bash
-   git clone https://github.com/tuusuario/tu-repo.git
-   cd tu-repo
+## 📌 Cómo funciona la aplicación
+
+Esta aplicación web tiene dos funciones principales:
+
+Conversor de divisas (USD ↔ EUR):
+
+Se conecta a la API de exchangeratesapi.io
+ para obtener el valor actualizado del dólar frente al euro.
+
+El usuario ingresa un monto en dólares y la app muestra automáticamente su equivalente en euros.
+
+Conversor de unidades (Kg ↔ Lb):
+
+Permite convertir fácilmente entre kilogramos y libras.
+
+Solo debes ingresar el valor en una de las casillas, y el sistema hace la conversión de manera instantánea.
