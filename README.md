@@ -28,7 +28,7 @@ Convierte de manera instantánea entre kilogramos y libras.
 - HTML + CSS 🎨  
 
 ---
-# 🔧 Como funciona:
+
 ## 🚀 ¿Cómo funciona?
 
 Ingresa un valor en la casilla correspondiente (dinero o peso).
