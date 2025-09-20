@@ -32,13 +32,15 @@ Convierte de manera instantánea entre kilogramos y libras.
 ## 🚀 ¿Cómo funciona?
 
 Ingresa un valor en la casilla correspondiente (dinero o peso).
-Haz clic en Convertir.
-Obtendrás el resultado al momento gracias a la magia de JavaScript + API en tiempo real.
+
+- Haz clic en Convertir.
+- Obtendrás el resultado al momento gracias a la magia de JavaScript + API en tiempo real.
 
 ---
 
 ## 🎯 Objetivo
 
 Esta app busca ser una herramienta práctica para el día a día, combinando:
-Datos en vivo 🌐 (para divisas).
-Cálculos instantáneos 🔢 (para unidades).
+
+- Datos en vivo 🌐 (para divisas).
+- Cálculos instantáneos 🔢 (para unidades).
